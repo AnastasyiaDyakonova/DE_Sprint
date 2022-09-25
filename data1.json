@@ -1,0 +1,4804 @@
+{
+   "data": [
+      {
+         "title": "Backend разработчик со знанием Python",
+         "work experience": "3–6 лет",
+         "salary": "от 2 500 до 3 000 USD на руки",
+         "region": "Алматы"
+      },
+      {
+         "title": "Backend разработчик со знанием Python",
+         "work experience": "3–6 лет",
+         "salary": "от 2 500 до 3 000 USD на руки",
+         "region": "Баку"
+      },
+      {
+         "title": "Backend разработчик со знанием Python",
+         "work experience": "3–6 лет",
+         "salary": "от 2 500 до 3 000 USD на руки",
+         "region": "Бишкек"
+      },
+      {
+         "title": "Backend разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 2 500 до 3 000 USD на руки",
+         "region": "Минск"
+      },
+      {
+         "title": "Backend разработчик со знанием Python",
+         "work experience": "3–6 лет",
+         "salary": "от 2 500 до 3 000 USD на руки",
+         "region": "Ташкент"
+      },
+      {
+         "title": "Middle Python-разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Бишкек"
+      },
+      {
+         "title": "Senior Data Scientist / ML Engineer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Аэропорт, Ленинградский проспект, 39с80"
+      },
+      {
+         "title": "Разработчик Solidity/Разработчик Rust/Разработчик Go/Разработчик python(удаленно)",
+         "work experience": "3–6 лет",
+         "salary": "от 600 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Python-разработчик (Django, DRF)",
+         "work experience": "3–6 лет",
+         "salary": "от 60 000 до 150 000 руб. на руки",
+         "region": "Москва, Сухаревская"
+      },
+      {
+         "title": "Junior Программист/Разработчик Python",
+         "work experience": "1–3 года",
+         "salary": "от 60 000 руб. на руки",
+         "region": "Новосибирск, улица Николаева, 12"
+      },
+      {
+         "title": "Junior Python разработчик (Django)",
+         "work experience": "не требуется",
+         "salary": "от 60 000 руб. до вычета налогов",
+         "region": "Краснодар, Центральный внутригородской округ, микрорайон Центральный, улица Будённого, 182"
+      },
+      {
+         "title": "Программист Python",
+         "work experience": "3–6 лет",
+         "salary": "от 80 000 до 220 000 руб. до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "Python-разработчик (backend)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Программист Python/Data Scientist (junior / middle)",
+         "work experience": "не требуется",
+         "salary": "от 60 000 до 100 000 руб. на руки",
+         "region": "Новосибирск"
+      },
+      {
+         "title": "Программист Python, удаленно",
+         "work experience": "1–3 года",
+         "salary": "от 170 000 руб. на руки",
+         "region": "Москва, Арбатская, Смоленская, Смоленская, улица Новый Арбат"
+      },
+      {
+         "title": "Junior/Middle Python Developer (Backend) - разработчик Питон",
+         "work experience": "1–3 года",
+         "salary": "от 60 000 до 100 000 руб. на руки",
+         "region": "Новосибирск"
+      },
+      {
+         "title": "Backend Develover/ Программист-разработчик Python",
+         "work experience": "1–3 года",
+         "salary": "от 100 000 до 200 000 руб. на руки",
+         "region": "Екатеринбург, Площадь 1905 года, проспект Ленина, 8"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Минск, Интернациональная улица, 20"
+      },
+      {
+         "title": "Python-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 120 000 до 190 000 руб. на руки",
+         "region": "Краснодар"
+      },
+      {
+         "title": "Python программист (Django)",
+         "work experience": "1–3 года",
+         "salary": "от 50 000 до 80 000 руб. на руки",
+         "region": "Санкт-Петербург, Владимирская, Достоевская, Маяковская, Колокольная улица, 2/18"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Севастополь, улица Сенявина, 1"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Python разработчик (личный кабинет пользователя)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Backend Developer (Python)",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 до 150 000 руб. до вычета налогов",
+         "region": "Рязань, улица Урицкого, 46"
+      },
+      {
+         "title": "Разработчик Python (Senior/Principal)",
+         "work experience": "3–6 лет",
+         "salary": "от 200 000 до 350 000 руб. на руки",
+         "region": "Екатеринбург, микрорайон Втузгородок, Комсомольская улица, 37"
+      },
+      {
+         "title": "Python Developer + ML",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 руб. до вычета налогов",
+         "region": "Санкт-Петербург, Спортивная, улица Яблочкова, 12Ц"
+      },
+      {
+         "title": "Middle Python backend developer",
+         "work experience": "3–6 лет",
+         "salary": "от 90 000 до 180 000 руб. до вычета налогов",
+         "region": "Москва, Аэропорт, улица Викторенко, 7"
+      },
+      {
+         "title": "Python-разработчик (middle), удаленно",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Иннополис"
+      },
+      {
+         "title": "Python Developer (Remote)",
+         "work experience": "3–6 лет",
+         "salary": "от 200 000 до 350 000 руб. на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Программист-разработчик Middle\\Senior на Python",
+         "work experience": "1–3 года",
+         "salary": "от 100 000 до 400 000 руб. на руки",
+         "region": "Москва, Деловой центр, Пресненская набережная"
+      },
+      {
+         "title": "Python разработчик (дистанционно)",
+         "work experience": "3–6 лет",
+         "salary": "до 200 000 руб. на руки",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Python/Django разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python Developer (Remote)",
+         "work experience": "3–6 лет",
+         "salary": "от 200 000 до 350 000 руб. на руки",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Middle Разработчик Python на платежную платформу",
+         "work experience": "1–3 года",
+         "salary": "от 210 000 руб. на руки",
+         "region": "Москва, Садовническая набережная, 69"
+      },
+      {
+         "title": "Разработчик бэкэнд (Python)",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 руб. на руки",
+         "region": "Москва, Кузнецкий мост, Лубянка, Трубная, Малый Кисельный переулок, 1/9"
+      },
+      {
+         "title": "Ведущий Python-developer",
+         "work experience": "3–6 лет",
+         "salary": "от 220 000 до 340 000 руб. до вычета налогов",
+         "region": "Тюмень, улица Максима Горького, 76"
+      },
+      {
+         "title": "Backend-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 3 500 USD на руки",
+         "region": "Нижний Новгород, Горьковская, Новая улица, 24"
+      },
+      {
+         "title": "Python Django разработчик, удаленно",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 до 200 000 руб. до вычета налогов",
+         "region": "Красноярск"
+      },
+      {
+         "title": "Middle/Middle+ Backend Developer (Python)",
+         "work experience": "1–3 года",
+         "salary": "от 150 000 до 200 000 руб. на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Middle BackEnd разработчик (Python)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Middle/Senior Python разработчик (удаленно)",
+         "work experience": "1–3 года",
+         "salary": "до 250 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Программист JavaScript, Python",
+         "work experience": "1–3 года",
+         "salary": "от 60 000 руб. на руки",
+         "region": "Краснодар, улица имени В.Н. Мачуги, 7/2"
+      },
+      {
+         "title": "Python Junior",
+         "work experience": "1–3 года",
+         "salary": "от 40 000 до 50 000 руб. до вычета налогов",
+         "region": "Балашиха"
+      },
+      {
+         "title": "Python backend developer (middle)",
+         "work experience": "1–3 года",
+         "salary": "до 200 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик С (Linux)",
+         "work experience": "3–6 лет",
+         "salary": "от 200 000 до 350 000 руб. на руки",
+         "region": "Москва, Охотный ряд, Театральная, Чеховская, Тверская улица, 9с7"
+      },
+      {
+         "title": "Middle Python разработчик",
+         "work experience": "1–3 года",
+         "salary": "от 100 000 до 200 000 руб. на руки",
+         "region": "Москва, Проспект Вернадского, проспект Вернадского, 29"
+      },
+      {
+         "title": "Инженер-разработчик (программист Python)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Царицыно, 6-я Радиальная улица, 9"
+      },
+      {
+         "title": "Middle backend Python developer",
+         "work experience": "3–6 лет",
+         "salary": "от 200 000 руб. на руки",
+         "region": "Москва, Калужская, Научный проезд, 17"
+      },
+      {
+         "title": "Python разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Программист Python",
+         "work experience": "1–3 года",
+         "salary": "от 180 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Middle/Senior Python Developer",
+         "work experience": "1–3 года",
+         "salary": "до 330 000 руб. до вычета налогов",
+         "region": "Москва, Деловой центр, Пресненская набережная, 12"
+      },
+      {
+         "title": "Backend web developer PHP/Python",
+         "work experience": "1–3 года",
+         "salary": "от 80 000 до 150 000 руб. до вычета налогов",
+         "region": "Томск"
+      },
+      {
+         "title": "Python Developer (Crypto)",
+         "work experience": "3–6 лет",
+         "salary": "от 5 000 до 7 000 EUR на руки",
+         "region": "Екатеринбург"
+      },
+      {
+         "title": "Разработчик Python",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Владимир, улица Сакко и Ванцетти, 50"
+      },
+      {
+         "title": "Senior Python разработчик (Django)",
+         "work experience": "3–6 лет",
+         "salary": "от 280 000 руб. до вычета налогов",
+         "region": "Краснодар, Центральный внутригородской округ, микрорайон Центральный, улица Будённого, 182"
+      },
+      {
+         "title": "Python-разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python developer",
+         "work experience": "1–3 года",
+         "salary": "от 100 000 руб. на руки",
+         "region": "Санкт-Петербург, проспект Стачек, 47"
+      },
+      {
+         "title": "Ведущий разработчик Python (Middle\\Senior Python Developer)",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 до 300 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Python-разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python-разработчик (краудсорсинговая платформа TagMe)",
+         "work experience": "3–6 лет",
+         "salary": "от 200 000 до 400 000 руб. на руки",
+         "region": "Москва, Кутузовская, Кутузовская, Кутузовский проспект, 32к1"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Минск, Молодежная, улица Тимирязева, 23"
+      },
+      {
+         "title": "Middle Backend Developer (Python)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Челябинск"
+      },
+      {
+         "title": "Разработчик Python",
+         "work experience": "более 6 лет",
+         "salary": "от 300 000 руб. до вычета налогов",
+         "region": "Москва, Кожуховская"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Программист Python",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Нижний Новгород, Горьковская, проспект Гагарина, 50к9"
+      },
+      {
+         "title": "Python Backend Developer (Middle/Remote)",
+         "work experience": "1–3 года",
+         "salary": "до 250 000 руб. на руки",
+         "region": "Москва, Западный административный округ, Можайский район, Инновационный центр Сколково, улица Нобеля, 5"
+      },
+      {
+         "title": "Python-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "до 250 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Бэкенд-разработчик Python (Junior+)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург, улица 8 Марта, 32А"
+      },
+      {
+         "title": "Python-разработчик (Совкомбанк Технологии)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Новосибирск, Октябрьская, Октябрьская магистраль, 4"
+      },
+      {
+         "title": "Программист Python",
+         "work experience": "3–6 лет",
+         "salary": "от 160 000 руб. до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "Data Engineer (Python), remote",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Senior Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "от 3 000 до 5 000 USD до вычета налогов",
+         "region": "Нур-Султан"
+      },
+      {
+         "title": "Ведущий программист Python",
+         "work experience": "3–6 лет",
+         "salary": "от 225 000 руб. до вычета налогов",
+         "region": "Новосибирск"
+      },
+      {
+         "title": "Python developer",
+         "work experience": "1–3 года",
+         "salary": "от 160 000 до 210 000 руб. до вычета налогов",
+         "region": "Москва, Дмитровская, Дмитровская, Савёловская, Новодмитровская улица, 2к2"
+      },
+      {
+         "title": "Backend-разработчик / Разработчик Python",
+         "work experience": "1–3 года",
+         "salary": "от 160 000 руб. до вычета налогов",
+         "region": "Санкт-Петербург, Василеостровская, Биржевая линия, 14"
+      },
+      {
+         "title": "Разработчик Python (техлид)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Томск"
+      },
+      {
+         "title": "Программист Python",
+         "work experience": "1–3 года",
+         "salary": "от 105 до 215 000 руб. до вычета налогов",
+         "region": "Новосибирск, Заельцовская, Кавалерийская улица, 1"
+      },
+      {
+         "title": "Senior python developer",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. на руки",
+         "region": "Москва, Краснопресненская, Улица 1905 года, Рочдельская улица, 15с27"
+      },
+      {
+         "title": "Python разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Программист Python (middle)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик на Python в HR Tech",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Владивосток"
+      },
+      {
+         "title": "Python-разработчик в Цифровые поверхности Салют (направление B2B2C)",
+         "work experience": "3–6 лет",
+         "salary": "от 200 000 до 400 000 руб. до вычета налогов",
+         "region": "Москва, Кутузовская, Кутузовская, Кутузовский проспект, 32к1"
+      },
+      {
+         "title": "Python Developer (CRM)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Краснопресненская, Улица 1905 года, Рочдельская улица, 15с43"
+      },
+      {
+         "title": "Python Developer в команду тестирования",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "C++ Developer (Berlin)",
+         "work experience": "не требуется",
+         "salary": "до 10 000 EUR на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Python программист-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 140 000 руб. на руки",
+         "region": "Москва, Сухаревская, Трубная, Последний переулок, 24"
+      },
+      {
+         "title": "Middle Python-разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Калужская, Калужско-Рижская линия, метро Калужская"
+      },
+      {
+         "title": "Python developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Политехническая, улица Обручевых, 1"
+      },
+      {
+         "title": "Senior / Middle Python developer",
+         "work experience": "3–6 лет",
+         "salary": "от 200 000 до 300 000 руб. на руки",
+         "region": "Москва, Краснопресненская, Улица 1905 года, Рочдельская улица, 15с27"
+      },
+      {
+         "title": "Программист-разработчик Python",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, 1-й Красногвардейский проезд, 15"
+      },
+      {
+         "title": "Web-разработчик (Python/ReactJS)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Старосадский переулок, 8с1"
+      },
+      {
+         "title": "Senior Python разработчик",
+         "work experience": "3–6 лет",
+         "salary": "до 250 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Python (Django ORM) разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Ведущий Python разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Middle Python developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Проектируемый проезд № 4062, 6с16"
+      },
+      {
+         "title": "Программист Python",
+         "work experience": "1–3 года",
+         "salary": "до 300 000 руб. на руки",
+         "region": "Москва, Добрынинская, Кольцевая линия, метро Добрынинская"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "до 6 000 USD на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Middle QA Automation (Python)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Приморская, набережная р. Смоленки, 33"
+      },
+      {
+         "title": "Разработчик Python (Middle, Senior)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Аэропорт, Динамо, Дмитровская, улица 8 Марта, 1с12"
+      },
+      {
+         "title": "Python developer (Middle/Senior)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, улица Красного Курсанта, 25Ж"
+      },
+      {
+         "title": "Инженер-программист",
+         "work experience": "не требуется",
+         "salary": "от 60 000 до 80 000 руб. до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "ML-разработчик в группу исследований машинного обучения",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Парк культуры"
+      },
+      {
+         "title": "Разработчик python (Middle/Senior)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Новосибирск"
+      },
+      {
+         "title": "Middle/Senior Python-разработчик в команду Добычи данных",
+         "work experience": "более 6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Linux Backend Developer",
+         "work experience": "3–6 лет",
+         "salary": "от 4 000 до 5 700 EUR до вычета налогов",
+         "region": "София"
+      },
+      {
+         "title": "Python-разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Middle+ backend python",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Волгоград, улица Порт-Саида, 18А"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Backend-Developer Python (middle)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Курская, Нижняя Сыромятническая улица, 10с2"
+      },
+      {
+         "title": "Backend developer (C#, Python)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Программист Python",
+         "work experience": "3–6 лет",
+         "salary": "до 50 000 000 сум на руки",
+         "region": "Ташкент, улица Шота Руставели, 12"
+      },
+      {
+         "title": "Full Stack Python/JS разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 120 000 руб. на руки",
+         "region": "Санкт-Петербург, Озерки, Проспект Просвещения, Выборгское шоссе, 17к1"
+      },
+      {
+         "title": "Senior python developer",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. на руки",
+         "region": "Москва, Краснопресненская, Улица 1905 года, Рочдельская улица, 15с27"
+      },
+      {
+         "title": "Python разработчик (Middle)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Верейская улица, 29с134"
+      },
+      {
+         "title": "Backend разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Долгопрудный, Научный переулок, 4"
+      },
+      {
+         "title": "Data Engineer (Python), remote",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "City of Limassol, Mesa Geitonia, Leoforos Spyrou Kyprianou"
+      },
+      {
+         "title": "Senior Python developer",
+         "work experience": "3–6 лет",
+         "salary": "от 210 000 до 300 000 руб. на руки",
+         "region": "Москва, Ленинградский проспект, 37"
+      },
+      {
+         "title": "Middle/Senior Python-разработчик в команду Добычи данных",
+         "work experience": "более 6 лет",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург"
+      },
+      {
+         "title": "Automation QA (Java\\Python)",
+         "work experience": "3–6 лет",
+         "salary": "от 180 000 до 280 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Data Engineer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python-программист (отдел автоматизированного тестирования)",
+         "work experience": "не требуется",
+         "salary": "от 30 000 до 50 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Python QA Automation Engineer",
+         "work experience": "1–3 года",
+         "salary": "от 100 000 до 120 000 руб. на руки",
+         "region": "Санкт-Петербург, Старая Деревня, улица Савушкина, 83к3"
+      },
+      {
+         "title": "Программист С/С++ (Embedded Linux)",
+         "work experience": "3–6 лет",
+         "salary": "от 180 000 руб. на руки",
+         "region": "Москва, Авиамоторная"
+      },
+      {
+         "title": "Team Lead Python",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Горьковская, Петроградская, Чкаловская, улица Льва Толстого, 1-3"
+      },
+      {
+         "title": "Преподаватель Python (ООП)",
+         "work experience": "не требуется",
+         "salary": "до 120 000 руб. до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "Программист Python / Senior / Lead",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Беговая, улица Савушкина, 126"
+      },
+      {
+         "title": "Инженер-программист (Software Engineer)",
+         "work experience": "1–3 года",
+         "salary": "от 180 000 руб. до вычета налогов",
+         "region": "Москва, улица Вавилова, 23с10"
+      },
+      {
+         "title": "Программист Machine learning",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Тверь, бульвар Шмидта, 18"
+      },
+      {
+         "title": "Разработчик по оптимизации бизнес-процессов (Python)",
+         "work experience": "1–3 года",
+         "salary": "до 90 000 руб. до вычета налогов",
+         "region": "Москва, Рижская, 1-я Рыбинская улица, 3А"
+      },
+      {
+         "title": "Senior Python разработчик",
+         "work experience": "3–6 лет",
+         "salary": "до 250 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior Python developer",
+         "work experience": "3–6 лет",
+         "salary": "до 7 000 USD на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Team Lead Python",
+         "work experience": "более 6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Молодежная, Ярцевская улица, 19"
+      },
+      {
+         "title": "Senior Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "от 3 000 до 5 000 USD до вычета налогов",
+         "region": "Нур-Султан"
+      },
+      {
+         "title": "Разработчик Python",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 руб. на руки",
+         "region": "Казань"
+      },
+      {
+         "title": "Программист Python (middle)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python TechLead (MTS AI)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Курская, Курская, Чкаловская, Подсосенский переулок, 23с5"
+      },
+      {
+         "title": "Разработчик Python/Go (WAF)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Нижний Новгород, Горьковская, улица Тимирязева, 15к2"
+      },
+      {
+         "title": "Middle/Senior Python-разработчик в команду Добычи данных",
+         "work experience": "более 6 лет",
+         "salary": "з/п не указана",
+         "region": "Краснодар"
+      },
+      {
+         "title": "Python Developer, Middle",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, проспект Непокоренных, 49"
+      },
+      {
+         "title": "Backend developer (Python) Middle",
+         "work experience": "3–6 лет",
+         "salary": "до 240 500 руб. до вычета налогов",
+         "region": "Ростов-на-Дону"
+      },
+      {
+         "title": "Программист Python Middle/Senior (МР)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python Backend Developer",
+         "work experience": "1–3 года",
+         "salary": "от 80 000 до 100 000 руб. на руки",
+         "region": "Москва, Деловой центр, Деловой центр, Международная, Пресненская набережная, 12"
+      },
+      {
+         "title": "Python разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Динамо, Петровский парк, Ленинградский проспект, 36с10"
+      },
+      {
+         "title": "Разработчик Python/Team Lead",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Беговая, 1-й Магистральный тупик, 5а"
+      },
+      {
+         "title": "Senior Python разработчик (PT Sandbox)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Томск"
+      },
+      {
+         "title": "Разработчик Python/Go (WAF)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Нижний Новгород, Горьковская, улица Тимирязева, 15к2"
+      },
+      {
+         "title": "Инженер-Программист (отдела функционального тестирования Python + Selenium )",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 руб. до вычета налогов",
+         "region": "Москва, Бутырская улица, 75"
+      },
+      {
+         "title": "Python разработчик (Middle)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Казань"
+      },
+      {
+         "title": "Senior Python разработчик (PT Sandbox)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Middle/Senior Python-разработчик в команду Добычи данных",
+         "work experience": "более 6 лет",
+         "salary": "з/п не указана",
+         "region": "Пермь"
+      },
+      {
+         "title": "Senior Python разработчик (PT Sandbox)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Full-stack web developer (Python and ReactJS)",
+         "work experience": "1–3 года",
+         "salary": "от 120 000 руб. до вычета налогов",
+         "region": "Кипр"
+      },
+      {
+         "title": "Python разработчик системы A/B-экспериментов",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Алексеевская, улица Годовикова, 9с10"
+      },
+      {
+         "title": "Senior Python/Django разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior Python Разработчик (PT Container Security)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик Python (middle)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 120 000 до 230 000 руб. на руки",
+         "region": "Санкт-Петербург, Василеостровская, 8-я линия Васильевского острова, 25"
+      },
+      {
+         "title": "Lead backend developer (Python)",
+         "work experience": "более 6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Проектируемый проезд № 4062, 6с16"
+      },
+      {
+         "title": "Data Engineer (удаленно)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Senior Python developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Кишинёв"
+      },
+      {
+         "title": "ML-разработчик",
+         "work experience": "1–3 года",
+         "salary": "от 100 000 до 150 000 руб. на руки",
+         "region": "Томск"
+      },
+      {
+         "title": "Бекэнд разработчик Python",
+         "work experience": "1–3 года",
+         "salary": "от 120 000 руб. до вычета налогов",
+         "region": "Москва, Нахимовский проспект, 31"
+      },
+      {
+         "title": "Senior Python developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Самара"
+      },
+      {
+         "title": "Python Backend Developer",
+         "work experience": "1–3 года",
+         "salary": "от 80 000 до 100 000 руб. на руки",
+         "region": "Москва, Деловой центр, Деловой центр, Международная, Пресненская набережная, 12"
+      },
+      {
+         "title": "Программист С++ / Python",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Новоусманский район, индустриальный парк Масловский, 6-я Парковая улица, 1"
+      },
+      {
+         "title": "Программист Python (Голосовой робот)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Поклонная улица, 3к1"
+      },
+      {
+         "title": "Python Developer (Lead/Senior)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Минск, Молодежная, улица Скрыганова, 6/3"
+      },
+      {
+         "title": "Senior Python developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Team Lead (Python)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python разработчик (backend)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург"
+      },
+      {
+         "title": "Middle \\ Senior Python developer",
+         "work experience": "3–6 лет",
+         "salary": "до 200 000 руб. до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior/Lead Python-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Ижевск"
+      },
+      {
+         "title": "Full-stack разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 300 000 до 400 000 руб. до вычета налогов",
+         "region": "Москва, Кунцевская, Рабочий Посёлок, Сетунь, Дорогобужская улица, 14"
+      },
+      {
+         "title": "Senior Python разработчик (Проект OpsNext)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python разработчик веб-сканера (информационная безопасность)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Самара"
+      },
+      {
+         "title": "Фулл-стек разработчик / Full-stack developer",
+         "work experience": "3–6 лет",
+         "salary": "от 170 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Python developer",
+         "work experience": "1–3 года",
+         "salary": "до 100 000 руб. на руки",
+         "region": "Екатеринбург, Геологическая, Площадь 1905 года, улица Добролюбова, 16/2"
+      },
+      {
+         "title": "Ведущий Python-developer",
+         "work experience": "3–6 лет",
+         "salary": "от 231 000 до 380 000 руб. до вычета налогов",
+         "region": "Казань"
+      },
+      {
+         "title": "Middle / Senior Python / Go developer",
+         "work experience": "1–3 года",
+         "salary": "от 80 000 до 200 000 руб. на руки",
+         "region": "Самара, Самарская улица, 200А"
+      },
+      {
+         "title": "Senior Python developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Senior/Lead Python-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Иваново (Ивановская область)"
+      },
+      {
+         "title": "Младший разработчик Golang, Ozon Fresh",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Python Web Developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург, Геологическая, Площадь 1905 года, улица Радищева, 28"
+      },
+      {
+         "title": "Программист Python",
+         "work experience": "1–3 года",
+         "salary": "от 30 000 до 120 000 руб. до вычета налогов",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Системный программист (Linux)",
+         "work experience": "1–3 года",
+         "salary": "от 180 000 руб. на руки",
+         "region": "Санкт-Петербург, Фрунзенская, набережная Обводного канала, 90Ж"
+      },
+      {
+         "title": "Разработчик С++ (Группа тестирования встраиваемого ПО)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior/Lead Python-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Python-разработчик ВИСТ Групп",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Университет, проспект Вернадского, 6"
+      },
+      {
+         "title": "Senior/Lead Python-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Барнаул"
+      },
+      {
+         "title": "Back-End developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Сетунь, Ярцевская, 19"
+      },
+      {
+         "title": "Программист-математик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Площадь Мужества, проспект Непокоренных, 17к4"
+      },
+      {
+         "title": "Senior/Lead Python-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург"
+      },
+      {
+         "title": "Senior/Lead Python-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Ижевск"
+      },
+      {
+         "title": "Python разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 120 000 до 230 000 руб. на руки",
+         "region": "Санкт-Петербург, Василеостровская, 8-я линия Васильевского острова, 25"
+      },
+      {
+         "title": "Senior Python-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior Python разработчик (PT Sandbox)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Томск"
+      },
+      {
+         "title": "Python - разработчик (ALM 2.0 Динамическое моделирование баланса)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Центральный административный округ, Пресненский район, Московский международный деловой центр Москва-Сити"
+      },
+      {
+         "title": "Python-developer",
+         "work experience": "1–3 года",
+         "salary": "от 100 000 до 215 000 руб. до вычета налогов",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Senior Python developer (удаленно)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Программист-математик, junior (Python)",
+         "work experience": "1–3 года",
+         "salary": "от 60 000 до 120 000 руб. на руки",
+         "region": "Санкт-Петербург, Площадь Мужества, Кушелевская дорога, 13к2"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python-разработчик (FastAPI+Django)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Выставочная, Деловой центр, 1-й Красногвардейский проезд, 15"
+      },
+      {
+         "title": "Python-разработчик / Middle/Senior/TechLead",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Калининград, проспект Победы, 81"
+      },
+      {
+         "title": "Преподаватель на курс \"Python разработчик\"",
+         "work experience": "3–6 лет",
+         "salary": "от 50 000 руб. до вычета налогов",
+         "region": "Санкт-Петербург, Владимирская, Достоевская, Центральный район, улица Ломоносова, 9"
+      },
+      {
+         "title": "С++, Python Разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург, Геологическая, улица Энгельса, 36"
+      },
+      {
+         "title": "Senior/Lead Python-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Ижевск"
+      },
+      {
+         "title": "Разработчик Python",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Инженер-разработчик Python под Linux",
+         "work experience": "1–3 года",
+         "salary": "от 55 000 до 200 000 руб. на руки",
+         "region": "Симферополь"
+      },
+      {
+         "title": "Разработчик backend PostgreSQL+Python",
+         "work experience": "3–6 лет",
+         "salary": "до 200 000 руб. до вычета налогов",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Senior/Lead Python-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Новосибирск"
+      },
+      {
+         "title": "Senior/Lead Python-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Иваново (Ивановская область)"
+      },
+      {
+         "title": "Senior Python Developer",
+         "work experience": "более 6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Инженер-разработчик (Python)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Backend разработчик python",
+         "work experience": "3–6 лет",
+         "salary": "от 190 000 до 250 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Backend разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Программист Python",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 до 210 000 руб. до вычета налогов",
+         "region": "Казань"
+      },
+      {
+         "title": "Middle Python Developer",
+         "work experience": "1–3 года",
+         "salary": "от 150 000 до 180 000 руб. на руки",
+         "region": "Москва, Выставочная, Пресненская набережная, 12"
+      },
+      {
+         "title": "Разработчик ETL/Airflow/Python (RWA)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python Developer (Crypto)",
+         "work experience": "3–6 лет",
+         "salary": "от 5 000 до 7 000 EUR на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Middle\\ Senior Python developer",
+         "work experience": "3–6 лет",
+         "salary": "до 200 000 руб. до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior Python разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Backend Разработчик Golang, PHP / Python (mid+/senior), удаленно",
+         "work experience": "3–6 лет",
+         "salary": "от 2 500 USD на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Junior DevOPS Engineer (OnPrem Team)",
+         "work experience": "не требуется",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Петроградская, Чкаловская, Большая Зеленина улица, 24"
+      },
+      {
+         "title": "Инженер-разработчик Python под Linux",
+         "work experience": "1–3 года",
+         "salary": "от 55 000 до 200 000 руб. на руки",
+         "region": "Симферополь"
+      },
+      {
+         "title": "Full-stack web developer (Python and ReactJS)",
+         "work experience": "1–3 года",
+         "salary": "от 120 000 руб. до вычета налогов",
+         "region": "Кипр"
+      },
+      {
+         "title": "Бэкэнд-разработчик Golang",
+         "work experience": "1–3 года",
+         "salary": "от 30 000 до 60 000 руб. до вычета налогов",
+         "region": "Ставрополь, улица Тухачевского, 20/7"
+      },
+      {
+         "title": "Trainee Python Developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Team Lead Python Developer HR TECH",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Инженер-программист",
+         "work experience": "не требуется",
+         "salary": "от 60 000 до 80 000 руб. до вычета налогов",
+         "region": "Щелково"
+      },
+      {
+         "title": "Senior Python Developer (Extranet Team)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Краснопресненская, Улица 1905 года, Рочдельская улица, 15с43"
+      },
+      {
+         "title": "Разработчик - геофизик (python)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Стажер-разработчик С++",
+         "work experience": "не требуется",
+         "salary": "з/п не указана",
+         "region": "Пенза, улица Кирова, 56"
+      },
+      {
+         "title": "Python-разработчик (краудсорсинговая платформа TagMe)",
+         "work experience": "1–3 года",
+         "salary": "от 200 000 до 400 000 руб. на руки",
+         "region": "Москва, Кутузовская, Кутузовская, Кутузовский проспект, 32к1"
+      },
+      {
+         "title": "Python/Java fullstack разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Ташкент"
+      },
+      {
+         "title": "Backend разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior / Middle Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, ул. Гиляровского, 47/5"
+      },
+      {
+         "title": "Python разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python разработчик системы A/B-экспериментов",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Алексеевская, улица Годовикова, 9с10"
+      },
+      {
+         "title": "Инженер-программист",
+         "work experience": "не требуется",
+         "salary": "от 60 000 до 80 000 руб. до вычета налогов",
+         "region": "Мытищи"
+      },
+      {
+         "title": "Python developer (проект с нуля)",
+         "work experience": "1–3 года",
+         "salary": "от 170 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Тбилиси"
+      },
+      {
+         "title": "Middle / Senior Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Баррикадная, Краснопресненская, Улица 1905 года, улица Заморёнова, 12с1"
+      },
+      {
+         "title": "Ведущий программист (Linux, Python, PostgreSQL)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Новослободская"
+      },
+      {
+         "title": "Разработчик Jupyter Notebook",
+         "work experience": "1–3 года",
+         "salary": "от 135 000 до 135 000 руб. на руки",
+         "region": "Москва, Ленинский проспект, улица Фотиевой, 5с1"
+      },
+      {
+         "title": "Разработчик ETL/Airflow/Python (RWA)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python Developer (Crypto)",
+         "work experience": "3–6 лет",
+         "salary": "от 5 000 до 7 000 EUR на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Senior Python разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Backend Разработчик Golang, PHP / Python (mid+/senior), удаленно",
+         "work experience": "3–6 лет",
+         "salary": "от 2 500 USD на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Junior DevOPS Engineer (OnPrem Team)",
+         "work experience": "не требуется",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Петроградская, Чкаловская, Большая Зеленина улица, 24"
+      },
+      {
+         "title": "Инженер-разработчик Python под Linux",
+         "work experience": "1–3 года",
+         "salary": "от 55 000 до 200 000 руб. на руки",
+         "region": "Симферополь"
+      },
+      {
+         "title": "Full-stack web developer (Python and ReactJS)",
+         "work experience": "1–3 года",
+         "salary": "от 120 000 руб. до вычета налогов",
+         "region": "Кипр"
+      },
+      {
+         "title": "Бэкэнд-разработчик Golang",
+         "work experience": "1–3 года",
+         "salary": "от 30 000 до 60 000 руб. до вычета налогов",
+         "region": "Ставрополь, улица Тухачевского, 20/7"
+      },
+      {
+         "title": "Trainee Python Developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Team Lead Python Developer HR TECH",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Инженер-программист",
+         "work experience": "не требуется",
+         "salary": "от 60 000 до 80 000 руб. до вычета налогов",
+         "region": "Щелково"
+      },
+      {
+         "title": "Разработчик - геофизик (python)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Стажер-разработчик С++",
+         "work experience": "не требуется",
+         "salary": "з/п не указана",
+         "region": "Пенза, улица Кирова, 56"
+      },
+      {
+         "title": "Middle Python разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 до 250 000 руб. на руки",
+         "region": "Красноярск"
+      },
+      {
+         "title": "Python Разработчик / Fastapi (удаленно)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Middle Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "от 600 000 KZT на руки",
+         "region": "Алматы, Алатау, улица Абиша Кекильбайулы, 34"
+      },
+      {
+         "title": "Python разработчик (middle+)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Проспект Мира, Калужско-Рижская линия, метро Проспект Мира"
+      },
+      {
+         "title": "Автотестировщик (Python)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Новочеркасская, Площадь Александра Невского 1, Площадь Александра Невского 2, Синопская набережная, 50А"
+      },
+      {
+         "title": "Middle/Senior Python Developer (Platform Virtualization)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Инженер-программист Python (Воронеж)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Воронеж, улица Лётчика Колесниченко, 3"
+      },
+      {
+         "title": "Middle Python backend developer (ML Space AI Cloud)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, улица Воздвиженка, 4/7"
+      },
+      {
+         "title": "Python-разработчик во внутренний каталог сервисов",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Программист (Backend - Python)",
+         "work experience": "1–3 года",
+         "salary": "от 50 000 руб. на руки",
+         "region": "Тюмень, улица Пермякова, 1"
+      },
+      {
+         "title": "Lead Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "от 300 000 руб. на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Python Developer (Crypto)",
+         "work experience": "3–6 лет",
+         "salary": "от 5 000 до 7 000 EUR на руки",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Middle/Senior Python/Django Developer, Belgium",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Нур-Султан"
+      },
+      {
+         "title": "Python разработчик",
+         "work experience": "1–3 года",
+         "salary": "от 100 000 руб. на руки",
+         "region": "Пермь"
+      },
+      {
+         "title": "Senior Python developer (MLOps)",
+         "work experience": "более 6 лет",
+         "salary": "от 3 500 EUR на руки",
+         "region": "Лимассол"
+      },
+      {
+         "title": "Python Developer (Middle/Senior)",
+         "work experience": "3–6 лет",
+         "salary": "от 2 000 до 4 000 USD до вычета налогов",
+         "region": "Тбилиси"
+      },
+      {
+         "title": "Ведущий Python разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 6 500 USD на руки",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Младший python-разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург, Сибирский тракт, 12к7"
+      },
+      {
+         "title": "Software engineer (Python)",
+         "work experience": "более 6 лет",
+         "salary": "от 300 000 до 500 000 руб. до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "Data Engineer (Python)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Тбилиси"
+      },
+      {
+         "title": "Python Developer (DWH)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Краснопресненская, Улица 1905 года, Рочдельская улица, 15с43"
+      },
+      {
+         "title": "Senior Python Developer (remote)",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. на руки",
+         "region": "Екатеринбург"
+      },
+      {
+         "title": "Senior Python Developer (remote)",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. на руки",
+         "region": "Ростов-на-Дону"
+      },
+      {
+         "title": "Python-разработчик (Рамблер/рекомендации)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Тульская, Варшавское шоссе, 9с1"
+      },
+      {
+         "title": "Senior Python Developer",
+         "work experience": "более 6 лет",
+         "salary": "з/п не указана",
+         "region": "Пенза"
+      },
+      {
+         "title": "Fullstack Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Нур-Султан"
+      },
+      {
+         "title": "Senior Python developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Fullstack Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Кишинёв"
+      },
+      {
+         "title": "Backend разработчик python",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Воронеж"
+      },
+      {
+         "title": "Ведущий разработчик Python",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Fullstack Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Баку"
+      },
+      {
+         "title": "Senior Python Developer (remote)",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. на руки",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Fullstack Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Тбилиси"
+      },
+      {
+         "title": "Fullstack Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Армения"
+      },
+      {
+         "title": "Python разработчик в CM.Expert (Яндекс Вертикали)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python разработчик (проект Лаборатория измерительных систем)",
+         "work experience": "не требуется",
+         "salary": "з/п не указана",
+         "region": "Вологда"
+      },
+      {
+         "title": "Python разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Новосибирск"
+      },
+      {
+         "title": "Middle Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior Python Developer (remote)",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Middle/Senior Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Преподаватель по программированию (Python, С++, Java)",
+         "work experience": "1–3 года",
+         "salary": "от 150 000 до 250 000 KZT на руки",
+         "region": "Атырау, улица Шокана Валиханова, 23А"
+      },
+      {
+         "title": "Программист-разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Коканд"
+      },
+      {
+         "title": "Программист-разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Фергана"
+      },
+      {
+         "title": "ELK support engineer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Минск, улица Кедышко, 14Б"
+      },
+      {
+         "title": "Ведущий инженер по автоматизированному тестированию / Automated QA Engineer (JavaScript)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Technical Consultant",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Продуктовый аналитик в команду «Метамодель»",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Аэропорт, улица Авиаконструктора Микояна, 12"
+      },
+      {
+         "title": "Продуктовый аналитик в направление «Ценообразование»",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Аэропорт, улица Авиаконструктора Микояна, 12"
+      },
+      {
+         "title": "Ночной специалист технической поддержки",
+         "work experience": "не требуется",
+         "salary": "от 18 000 до 36 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Ночной специалист технической поддержки",
+         "work experience": "не требуется",
+         "salary": "от 18 000 до 36 000 руб. на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Специалист службы поддержки с техническими знаниями в Яндекс Поиск",
+         "work experience": "не требуется",
+         "salary": "от 15 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Специалист службы поддержки с техническими знаниями в Яндекс Поиск",
+         "work experience": "не требуется",
+         "salary": "от 15 000 руб. на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Специалист службы поддержки с техническими знаниями в Яндекс Поиск",
+         "work experience": "не требуется",
+         "salary": "от 15 000 руб. на руки",
+         "region": "Екатеринбург"
+      },
+      {
+         "title": "Специалист службы поддержки с техническими знаниями в Яндекс Поиск",
+         "work experience": "не требуется",
+         "salary": "от 15 000 руб. на руки",
+         "region": "Новосибирск"
+      },
+      {
+         "title": "Middle / Senior QA инженер",
+         "work experience": "1–3 года",
+         "salary": "от 200 000 руб. до вычета налогов",
+         "region": "Москва, Алексеевская, улица Годовикова, 9с10"
+      },
+      {
+         "title": "Инженер по исследованиям/Photonics R&D Scientist",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Продуктовый аналитик в направление «Работодательские сервисы»",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Алексеевская, улица Годовикова, 9с10"
+      },
+      {
+         "title": "Full Stack Developer (ASP.Net)",
+         "work experience": "3–6 лет",
+         "salary": "от 800 до 1 500 USD до вычета налогов",
+         "region": "Ташкент, Олмазорский район, Малая кольцевая дорога, 17"
+      },
+      {
+         "title": "Data scientist/Phyton Developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Автозаводская, Восточная улица"
+      },
+      {
+         "title": "Team Lead (Python)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Quantitative Researcher",
+         "work experience": "не требуется",
+         "salary": "от 300 000 руб. до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior Python Developer (Extranet Team)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Краснопресненская, Улица 1905 года, Рочдельская улица, 15с43"
+      },
+      {
+         "title": "ML разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Белорусская, 4-й Лесной переулок, 4"
+      },
+      {
+         "title": "Lead Machine Learning Developer",
+         "work experience": "более 6 лет",
+         "salary": "от 5 500 до 8 000 USD до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "Team Lead Python",
+         "work experience": "более 6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Молодежная, Ярцевская улица, 19"
+      },
+      {
+         "title": "Middle Python developer (remote)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Новослободская улица, 24с1"
+      },
+      {
+         "title": "Python - разработчик (ALM 2.0 Динамическое моделирование баланса)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Центральный административный округ, Пресненский район, Московский международный деловой центр Москва-Сити"
+      },
+      {
+         "title": "Backend-Developer Python (senior)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Курская, Нижняя Сыромятническая улица, 10с2"
+      },
+      {
+         "title": "Программист инструментария / Game Tools Developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Backend developer (C#, Python)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург"
+      },
+      {
+         "title": "React Native программист",
+         "work experience": "1–3 года",
+         "salary": "от 150 000 до 250 000 руб. на руки",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Программист C/C++",
+         "work experience": "3–6 лет",
+         "salary": "от 130 000 до 180 000 руб. на руки",
+         "region": "Санкт-Петербург, Цветочная улица, 25 а"
+      },
+      {
+         "title": "Team Lead/Senior Python Developer (remote)",
+         "work experience": "3–6 лет",
+         "salary": "от 300 000 руб. на руки",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Data Engineer (Python), remote",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "City of Limassol, Mesa Geitonia, Leoforos Spyrou Kyprianou"
+      },
+      {
+         "title": "Senior Python Backend Developer (to Cyprus)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Кипр"
+      },
+      {
+         "title": "Data Engineer (Python), remote",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "City of Limassol, Mesa Geitonia, Leoforos Spyrou Kyprianou"
+      },
+      {
+         "title": "DevOps инженер",
+         "work experience": "3–6 лет",
+         "salary": "от 180 000 до 300 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Data Engineer (Python), remote",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "City of Limassol, Mesa Geitonia, Leoforos Spyrou Kyprianou"
+      },
+      {
+         "title": "Senior SDET (Python)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Невский проспект, 104Б"
+      },
+      {
+         "title": "ML-разработчик в команду разработки UGC",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior Python Developer (remote)",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior Python Разработчик (PT Container Security)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Казань"
+      },
+      {
+         "title": "Программист",
+         "work experience": "1–3 года",
+         "salary": "от 30 000 до 80 000 руб. на руки",
+         "region": "Омск"
+      },
+      {
+         "title": "Team Lead (Python)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Middle Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Итальянская улица, 17"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Челябинск, Каслинская улица, 77"
+      },
+      {
+         "title": "Инженер-программист",
+         "work experience": "1–3 года",
+         "salary": "от 90 000 до 120 000 руб. до вычета налогов",
+         "region": "Курск, улица Карла Либкнехта, 40"
+      },
+      {
+         "title": "Middle Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Ведущий инженер-программист (разрабатывающее подразделение 5)",
+         "work experience": "3–6 лет",
+         "salary": "до 300 000 руб. на руки",
+         "region": "Москва, Электрозаводская, Гольяновская улица, 7ас1"
+      },
+      {
+         "title": "Fullstack Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Кишинёв"
+      },
+      {
+         "title": "Преподаватель Программирования Python (Yandex лицей)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Новосибирск, Советский район, микрорайон Академгородок, Вяземская улица, 4"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Смоленск"
+      },
+      {
+         "title": "Backend разработчик python",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик Python",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Senior Python Developer (remote)",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. на руки",
+         "region": "Ульяновск"
+      },
+      {
+         "title": "Python разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Новосибирск"
+      },
+      {
+         "title": "Backend разработчик python",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург"
+      },
+      {
+         "title": "Full Stack Developer (Python/JS)",
+         "work experience": "3–6 лет",
+         "salary": "от 4 500 до 6 000 EUR на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior Python Developer (remote)",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Python Team Lead",
+         "work experience": "более 6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Backend разработчик python",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Воронеж"
+      },
+      {
+         "title": "Программист-разработчик",
+         "work experience": "более 6 лет",
+         "salary": "от 30 000 до 100 000 руб. до вычета налогов",
+         "region": "Брянск, Бежицкий район, Харьковская улица, 10Б"
+      },
+      {
+         "title": "Python TeamLead",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Fullstack Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Баку"
+      },
+      {
+         "title": "Senior Python developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Аэропорт, Красный Балтиец, Сокол, Ленинградский проспект, 72к4"
+      },
+      {
+         "title": "Senior Python Developer (remote)",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. на руки",
+         "region": "Екатеринбург"
+      },
+      {
+         "title": "Python-разработчик в команду разработки биллинговой платформы",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Senior Python Developer (Partners)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Краснопресненская, Улица 1905 года, Рочдельская улица, 15с43"
+      },
+      {
+         "title": "Senior Python Developer (remote)",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. на руки",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Senior Python Developer (remote)",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. на руки",
+         "region": "Ростов-на-Дону"
+      },
+      {
+         "title": "Разработчик RPA",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Красноярск"
+      },
+      {
+         "title": "Программист Javascript (React) + Python",
+         "work experience": "3–6 лет",
+         "salary": "от 50 000 руб. на руки",
+         "region": "Омск"
+      },
+      {
+         "title": "Разработчик ETL",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Ульяновск"
+      },
+      {
+         "title": "Разработчик ETL",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Fullstack Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Team Lead Python/Django / Руководитель отдела разработки и тестирования",
+         "work experience": "более 6 лет",
+         "salary": "от 300 000 до 400 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "QA инженер (Python)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Северный административный округ, улица 8 Марта, 1с12"
+      },
+      {
+         "title": "Преподаватель по программированию - Python",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Красноярск, улица Партизана Железняка, 26Б"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "1–3 года",
+         "salary": "до 280 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Python developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 110 000 до 170 000 руб. на руки",
+         "region": "Пермь, улица Окулова, 75к3"
+      },
+      {
+         "title": "Python разработчик",
+         "work experience": "1–3 года",
+         "salary": "от 30 000 руб. на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Junior Python backend developer",
+         "work experience": "1–3 года",
+         "salary": "от 40 000 до 80 000 руб. на руки",
+         "region": "Санкт-Петербург, Электросила, Новорощинская улица, 4"
+      },
+      {
+         "title": "Программист-разработчик",
+         "work experience": "1–3 года",
+         "salary": "до 300 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик Python",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Войковская, Старопетровский проезд, 7Ас6"
+      },
+      {
+         "title": "Python-разработчик (Django, DRF, удаленно)",
+         "work experience": "1–3 года",
+         "salary": "от 60 000 до 150 000 руб. до вычета налогов",
+         "region": "Казань, улица Алексея Козина, 5"
+      },
+      {
+         "title": "Python разработчик backend (удаленно)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python разработчик (Django)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Проспект Вернадского, проспект Вернадского, 41"
+      },
+      {
+         "title": "Бэкенд разработчик",
+         "work experience": "3–6 лет",
+         "salary": "до 170 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Web-программист Python (удаленно)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Аналитик данных в индийский EdTech",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик C++",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Middle Python Developer в команду контакт-центра сервиса путешествий",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Нагатинская, 1-й Нагатинский проезд, 10"
+      },
+      {
+         "title": "Data Engineer/Разработчик DWH+ETL",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Красногорск, Мякинино, бульвар Строителей, 4"
+      },
+      {
+         "title": "Senior DevOps Engineer (Yepp)",
+         "work experience": "3–6 лет",
+         "salary": "от 5 000 до 8 500 EUR на руки",
+         "region": "Кипр"
+      },
+      {
+         "title": "Full stack разработчик JavaScript/Python",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Славянский бульвар, Западный административный округ, Можайский район, Инновационный центр Сколково, Большой бульвар, 30с1"
+      },
+      {
+         "title": "Старший разработчик",
+         "work experience": "более 6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Преподаватель программирования",
+         "work experience": "3–6 лет",
+         "salary": "от 180 000 до 280 000 KZT на руки",
+         "region": "Алматы, микрорайон Орбита-2, 20А"
+      },
+      {
+         "title": "Специалист службы поддержки с техническими знаниями в Яндекс Поиск",
+         "work experience": "не требуется",
+         "salary": "от 15 000 руб. на руки",
+         "region": "Екатеринбург"
+      },
+      {
+         "title": "Специалист службы поддержки с техническими знаниями в Яндекс Поиск",
+         "work experience": "не требуется",
+         "salary": "от 15 000 руб. на руки",
+         "region": "Новосибирск"
+      },
+      {
+         "title": "Middle / Senior QA инженер",
+         "work experience": "1–3 года",
+         "salary": "от 200 000 руб. до вычета налогов",
+         "region": "Москва, Алексеевская, улица Годовикова, 9с10"
+      },
+      {
+         "title": "Инженер по исследованиям/Photonics R&D Scientist",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Продуктовый аналитик в направление «Работодательские сервисы»",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Алексеевская, улица Годовикова, 9с10"
+      },
+      {
+         "title": "Full Stack Developer (ASP.Net)",
+         "work experience": "3–6 лет",
+         "salary": "от 800 до 1 500 USD до вычета налогов",
+         "region": "Ташкент, Олмазорский район, Малая кольцевая дорога, 17"
+      },
+      {
+         "title": "Фронтенд разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Инженер по автоматизированному тестированию (Back-end/Python/CCTV/решения видеонаблюдения)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Программист",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "DevOps Engineer (Remote)",
+         "work experience": "1–3 года",
+         "salary": "от 200 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "DevOps Engineer Platform (Минск)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Automation QA Specialist",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Инженер-программист С++",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Нижний Новгород, Горьковская, Славянская улица, 29"
+      },
+      {
+         "title": "Team Lead (Python)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior Python Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург"
+      },
+      {
+         "title": "Программист-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 руб. до вычета налогов",
+         "region": "Москва, Локомотив, Черкизовская, Щёлковское шоссе, 23с4"
+      },
+      {
+         "title": "Системный программист Linux",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Северный административный округ, улица 8 Марта, 1с12"
+      },
+      {
+         "title": "Middle Python Developer в команду контакт-центра сервиса путешествий",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Нагатинская, 1-й Нагатинский проезд, 10"
+      },
+      {
+         "title": "Senior SDET (Python)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Невский проспект, 104Б"
+      },
+      {
+         "title": "Middle Data Scientist",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. до вычета налогов",
+         "region": "Москва, Новолесная улица, 2"
+      },
+      {
+         "title": "Lead Machine Learning Developer",
+         "work experience": "более 6 лет",
+         "salary": "от 5 500 до 8 000 USD до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "Data engineer (Middle)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Программист С++ Senior",
+         "work experience": "3–6 лет",
+         "salary": "от 400 000 до 700 000 руб. на руки",
+         "region": "Москва, проспект Вернадского, 29"
+      },
+      {
+         "title": "Full stack разработчик JavaScript/Python",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Славянский бульвар, Западный административный округ, Можайский район, Инновационный центр Сколково, Большой бульвар, 30с1"
+      },
+      {
+         "title": "Software Development Engineer in Test (C/С++)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "ETL Developer, remote / ETL разработчик, удаленно",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Академическая"
+      },
+      {
+         "title": "DevOps Engineer",
+         "work experience": "1–3 года",
+         "salary": "от 2 000 до 3 500 USD на руки",
+         "region": "Минск, Площадь Якуба Коласа, улица Куйбышева, 35"
+      },
+      {
+         "title": "Инженер-разработчик Java",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Фили, Шелепиха, Береговой проезд, 5Ак1"
+      },
+      {
+         "title": "Программист С++ / Middle C++ Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Казань"
+      },
+      {
+         "title": "Junior C++ Game Developer",
+         "work experience": "1–3 года",
+         "salary": "от 75 000 руб. на руки",
+         "region": "Санкт-Петербург, Старая Деревня"
+      },
+      {
+         "title": "React Native программист",
+         "work experience": "1–3 года",
+         "salary": "от 150 000 до 250 000 руб. на руки",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "DevOps Engineer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Старший аналитик данных / Senior Data Analyst",
+         "work experience": "3–6 лет",
+         "salary": "от 70 000 до 120 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Middle Web Developer (Python) remote",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior developer (Python)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Бауманская, Комсомольская, Красносельская, Ольховская улица, 4с2"
+      },
+      {
+         "title": "Data Analyst - NLP (to Canada/Serbia)",
+         "work experience": "более 6 лет",
+         "salary": "от 7 000 USD до вычета налогов",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Senior Backend Engineer (Remote, to Canada/USA)",
+         "work experience": "более 6 лет",
+         "salary": "от 5 000 до 9 000 USD на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Web Backend Engineer (Remote)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Quantitative Researcher",
+         "work experience": "не требуется",
+         "salary": "от 300 000 руб. до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик/Аналитик SQL",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python разработчик (Django)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Проспект Вернадского, проспект Вернадского, 41"
+      },
+      {
+         "title": "ML разработчик Виртуальный ассистент(MTS AI)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Web-программист Python (удаленно)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Программист-разработчик",
+         "work experience": "1–3 года",
+         "salary": "до 300 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "BI developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, 5 линия, метро Чкаловская"
+      },
+      {
+         "title": "Python Developer (to Cyprus)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Программист-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 руб. до вычета налогов",
+         "region": "Москва, Локомотив, Черкизовская, Щёлковское шоссе, 23с4"
+      },
+      {
+         "title": "Middle Data Scientist",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. до вычета налогов",
+         "region": "Москва, Новолесная улица, 2"
+      },
+      {
+         "title": "DevOps Engineer",
+         "work experience": "1–3 года",
+         "salary": "от 2 000 до 3 500 USD на руки",
+         "region": "Минск, Площадь Якуба Коласа, улица Куйбышева, 35"
+      },
+      {
+         "title": "Разработчик Power BI",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Замоскворецкая линия, метро Технопарк"
+      },
+      {
+         "title": "Junior C++ разработчик алгоритмов геометрического моделирования",
+         "work experience": "не требуется",
+         "salary": "от 40 000 до 70 000 руб. на руки",
+         "region": "Новосибирск, улица Николаева, 11/5"
+      },
+      {
+         "title": "Senior Machine Learning and Computer vision developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "DevOps Engineer Platform (Минск)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Программист разработчик SQL (SQL Developer)",
+         "work experience": "3–6 лет",
+         "salary": "от 90 000 до 150 000 руб. на руки",
+         "region": "Самара, Гагаринская, Загородная, 1"
+      },
+      {
+         "title": "Программист",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Младший разработчик BI",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Пермь, улица Аркадия Гайдара, 8Б"
+      },
+      {
+         "title": "Data Engineer/Разработчик DWH+ETL",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Красногорск, Мякинино, бульвар Строителей, 4"
+      },
+      {
+         "title": "DevOps архитектор",
+         "work experience": "3–6 лет",
+         "salary": "от 400 000 руб. на руки",
+         "region": "Москва, Калужская, улица Введенского, 1А"
+      },
+      {
+         "title": "Разработчик C# алгоритмы",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Калужская, Москва, Научный проезд, 19"
+      },
+      {
+         "title": "Старший аналитик данных / Senior Data Analyst",
+         "work experience": "3–6 лет",
+         "salary": "от 70 000 до 120 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Embedded разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, улица Большая Ордынка, 44с4"
+      },
+      {
+         "title": "C (embedded Linux) developer (Удаленно)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Костанай"
+      },
+      {
+         "title": "С ++ Программист",
+         "work experience": "1–3 года",
+         "salary": "от 130 000 руб. на руки",
+         "region": "Москва, Белорусская, 3-я улица Ямского Поля, 2к7"
+      },
+      {
+         "title": "Системный администратор Linux / DevOps инженер",
+         "work experience": "3–6 лет",
+         "salary": "от 80 000 до 160 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик моделей цифровых систем беспроводной связи",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Нижний Новгород, Горьковская, Ошарская улица, 95к2"
+      },
+      {
+         "title": "Java Developer (Server side)",
+         "work experience": "3–6 лет",
+         "salary": "от 170 000 до 180 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Data инженер",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, улица Бутлерова, 17"
+      },
+      {
+         "title": "DevOps engineer",
+         "work experience": "3–6 лет",
+         "salary": "от 3 000 EUR на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Аналитик BI",
+         "work experience": "3–6 лет",
+         "salary": "от 240 000 руб. до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "DevOps специалист",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Калужская, Москва, Научный проезд, 19"
+      },
+      {
+         "title": "Программист PHP / Разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 170 000 руб. на руки",
+         "region": "Черноголовка"
+      },
+      {
+         "title": "Senior Data Scientist",
+         "work experience": "3–6 лет",
+         "salary": "от 300 000 руб. до вычета налогов",
+         "region": "Москва, Новолесная улица, 2"
+      },
+      {
+         "title": "Senior blockchain developer",
+         "work experience": "3–6 лет",
+         "salary": "от 300 000 до 450 000 руб. до вычета налогов",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Бэкенд-разработчик (Ruby on Rails)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "DevOps инженер",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Кутузовская, Кутузовский проспект, 32к1"
+      },
+      {
+         "title": "Ведущий back-end программист (javascript) (удаленно)",
+         "work experience": "3–6 лет",
+         "salary": "от 200 000 руб. на руки",
+         "region": "Москва, Тимирязевская, Улица Милашенкова, Фонвизинская, улица Милашенкова, 4Ак1"
+      },
+      {
+         "title": "Инженер-программист С++",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Нижний Новгород, Горьковская, Славянская улица, 29"
+      },
+      {
+         "title": "Machine Learning Engineer (VK Музыка)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Аэропорт, Ленинградский проспект, 39с79"
+      },
+      {
+         "title": "Аналитик-исследователь киберугроз",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 до 250 000 руб. на руки",
+         "region": "Москва, Площадь Ильича, Римская, бульвар Энтузиастов, 2"
+      },
+      {
+         "title": "Программист С++",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Василеостровская, 7-я линия Васильевского острова, 44"
+      },
+      {
+         "title": "Python разработчик (разработчик логики)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Алматы"
+      },
+      {
+         "title": "Программист Python",
+         "work experience": "1–3 года",
+         "salary": "от 50 000 до 200 000 руб. на руки",
+         "region": "Ростов-на-Дону, Нахичевань, улица 14-я Линия, 55/50"
+      },
+      {
+         "title": "Аналитик данных в индийский EdTech",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Алматы"
+      },
+      {
+         "title": "Бэкенд разработчик",
+         "work experience": "3–6 лет",
+         "salary": "до 170 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Python-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 110 000 до 170 000 руб. на руки",
+         "region": "Пермь, улица Окулова, 75к3"
+      },
+      {
+         "title": "Python Developer",
+         "work experience": "1–3 года",
+         "salary": "до 280 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Junior Product Analyst (Gamedev)",
+         "work experience": "не требуется",
+         "salary": "з/п не указана",
+         "region": "Москва, Баррикадная, Краснопресненская, Улица 1905 года"
+      },
+      {
+         "title": "Python developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Python разработчик",
+         "work experience": "1–3 года",
+         "salary": "от 30 000 руб. на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Python разработчик (Django)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Проспект Вернадского, проспект Вернадского, 41"
+      },
+      {
+         "title": "Python-разработчик (Django, DRF, удаленно)",
+         "work experience": "1–3 года",
+         "salary": "от 60 000 до 150 000 руб. до вычета налогов",
+         "region": "Казань, улица Алексея Козина, 5"
+      },
+      {
+         "title": "Программист-разработчик",
+         "work experience": "1–3 года",
+         "salary": "до 300 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Junior Python backend developer",
+         "work experience": "1–3 года",
+         "salary": "от 40 000 до 80 000 руб. на руки",
+         "region": "Санкт-Петербург, Электросила, Новорощинская улица, 4"
+      },
+      {
+         "title": "Python разработчик backend (удаленно)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик Python",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Войковская, Старопетровский проезд, 7Ас6"
+      },
+      {
+         "title": "Web-программист Python (удаленно)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "ML разработчик Виртуальный ассистент(MTS AI)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Web-разработчик full stack",
+         "work experience": "1–3 года",
+         "salary": "от 60 000 до 100 000 руб. до вычета налогов",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Разработчик ML и СV",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Market Data Quality Analyst (HFT)",
+         "work experience": "1–3 года",
+         "salary": "от 3 000 EUR на руки",
+         "region": "Кипр"
+      },
+      {
+         "title": "Middle С++ Developer (Разработчик С++)",
+         "work experience": "3–6 лет",
+         "salary": "от 170 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик С++ (Back-end/CCTV/IPTV/OTT)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Кожуховская, 2-й Южнопортовый проезд, 16с6"
+      },
+      {
+         "title": "Программист C/С++ (Middle)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Алексеевская, ВДНХ, Староалексеевская улица, 5"
+      },
+      {
+         "title": "Бэкенд-разработчик (Ruby on Rails)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик встраиваемого/бортового ПО (C++)",
+         "work experience": "3–6 лет",
+         "salary": "от 180 000 до 220 000 руб. на руки",
+         "region": "Москва, Киевская, Киевская, Студенческая, Бережковская набережная"
+      },
+      {
+         "title": "PHP Backend developer",
+         "work experience": "3–6 лет",
+         "salary": "от 200 000 руб. на руки",
+         "region": "Санкт-Петербург, Пионерская, Коломяжский проспект, 15к1"
+      },
+      {
+         "title": "Full-stack developer (middle)",
+         "work experience": "1–3 года",
+         "salary": "от 3 500 до 6 000 бел. руб. на руки",
+         "region": "Минск"
+      },
+      {
+         "title": "Разработчик баз данных Oracle",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Челябинск"
+      },
+      {
+         "title": "DilOS (illumos based) developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Специалист по обработке данных / программист онлайн-анкет",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Электрозаводская, Барабанный переулок, 3"
+      },
+      {
+         "title": "Системный администратор Linux / DevOps инженер",
+         "work experience": "3–6 лет",
+         "salary": "от 80 000 до 160 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "DevOps/Site Reliability Engineer (SRE)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "DevOps engineer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Нижний Новгород, Ленинская, микрорайон Молитовка, Мотальный переулок, 8"
+      },
+      {
+         "title": "Senior Marketing Analyst (Remote)",
+         "work experience": "3–6 лет",
+         "salary": "от 3 000 EUR на руки",
+         "region": "Москва, Автозаводская, улица Ленинская Слобода, 19"
+      },
+      {
+         "title": "C++ Gameplay Developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Аналитик-исследователь киберугроз",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 до 250 000 руб. на руки",
+         "region": "Москва, Площадь Ильича, Римская, бульвар Энтузиастов, 2"
+      },
+      {
+         "title": "DevOps Engineer",
+         "work experience": "более 6 лет",
+         "salary": "з/п не указана",
+         "region": "Алматы"
+      },
+      {
+         "title": "Специалист по разработке на Golang (middle)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Деловой центр, Пресненская набережная, 12"
+      },
+      {
+         "title": "DevOps специалист",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Деловой центр, Международная, Тестовская, Тестовская улица, 10"
+      },
+      {
+         "title": "Senior Marketing Analyst / Старший маркетинговый аналитик",
+         "work experience": "3–6 лет",
+         "salary": "от 200 000 руб. на руки",
+         "region": "Москва, Автозаводская, улица Ленинская Слобода, 19"
+      },
+      {
+         "title": "Системный программист С/С++ (разработка ОС Аврора)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Звенигородская, улица Марата, 69-71"
+      },
+      {
+         "title": "Bitrix разработчик (Senior)",
+         "work experience": "3–6 лет",
+         "salary": "от 200 000 руб. на руки",
+         "region": "Москва, Ленинградское шоссе, 16с9"
+      },
+      {
+         "title": "Инженер-программист",
+         "work experience": "1–3 года",
+         "salary": "от 100 000 руб. до вычета налогов",
+         "region": "Москва, Зеленоградский административный округ, район Матушкино, проспект Генерала Алексеева, 15"
+      },
+      {
+         "title": "Технический писатель",
+         "work experience": "1–3 года",
+         "salary": "до 70 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Менеджер по сопровождению пентестов и уязвимостей в Отдел анализа защищенности",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Фруктовая улица, 7к2"
+      },
+      {
+         "title": "Voip инженер (Asterisk)",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 до 200 000 руб. на руки",
+         "region": "Москва, Коломенская, 2-й Нагатинский проезд, 2с8"
+      },
+      {
+         "title": "Маркетинговый аналитик / UA Analyst",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Новокузнецкая, Павелецкая, Третьяковская, Большая Татарская улица, 35с7-9"
+      },
+      {
+         "title": "Системный администратор Linux / DevOps инженер",
+         "work experience": "1–3 года",
+         "salary": "от 80 000 до 150 000 руб. на руки",
+         "region": "Тула"
+      },
+      {
+         "title": "Инженер верификации ASIC/FPGA",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Ведущий инженер - программист С/С++",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Нагатинская, Варшавское шоссе, 26, стр. 11"
+      },
+      {
+         "title": "Системный администратор Linux",
+         "work experience": "1–3 года",
+         "salary": "от 80 000 до 120 000 руб. на руки",
+         "region": "Санкт-Петербург, Фрунзенская, набережная Обводного канала, 90Ж"
+      },
+      {
+         "title": "Ведущий разработчик Unreal Engine 5",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Системный архитектор",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "QA AI Driving Data",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "С++ Developer",
+         "work experience": "1–3 года",
+         "salary": "от 100 000 руб. на руки",
+         "region": "Новосибирск, микрорайон Академгородок"
+      },
+      {
+         "title": "Инженер по тестированию (программно-аппаратные комплексы)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Площадь Мужества, Политехническая, улица Шателена, 3"
+      },
+      {
+         "title": "DevOps",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Системный программист С/С++ (разработка ОС Аврора)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Программист С++",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Волхонское шоссе, 4 Б"
+      },
+      {
+         "title": "Программист С++",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Волхонское шоссе, 4 Б"
+      },
+      {
+         "title": "Технический писатель",
+         "work experience": "1–3 года",
+         "salary": "до 70 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Web-разработчик (fullstack)",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 до 180 000 руб. на руки",
+         "region": "Москва, Одесская улица, 2"
+      },
+      {
+         "title": "С++ Developer",
+         "work experience": "1–3 года",
+         "salary": "от 100 000 руб. на руки",
+         "region": "Новосибирск, микрорайон Академгородок"
+      },
+      {
+         "title": "Аналитик в команду внедрения ботов",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Data Scientist",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Польша"
+      },
+      {
+         "title": "Разработчик на С++",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Новосибирск"
+      },
+      {
+         "title": "Java разработчик Naumen Erudite",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Лиговский проспект, Обводный Канал, Лиговский проспект, 123"
+      },
+      {
+         "title": "Machine Learning Engineer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Челябинск"
+      },
+      {
+         "title": "Flutter разработчик, Full stack",
+         "work experience": "1–3 года",
+         "salary": "от 150 000 до 250 000 руб. на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Инженер по внедрению и техподдержке телекоммуникационного биллинга",
+         "work experience": "1–3 года",
+         "salary": "до 150 000 руб. на руки",
+         "region": "Зеленоград, улица Юности, 8"
+      },
+      {
+         "title": "Frontend-разработчик junior",
+         "work experience": "не требуется",
+         "salary": "до 70 000 руб. на руки",
+         "region": "Санкт-Петербург, Площадь Мужества, Политехническая улица, 22"
+      },
+      {
+         "title": "DataBase Administrator (Минск)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Senior PL/SQL разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Марксистская, Площадь Ильича, Римская, Большая Андроньевская улица, 17"
+      },
+      {
+         "title": "Ведущий инженер-программист С++",
+         "work experience": "1–3 года",
+         "salary": "от 90 000 руб. на руки",
+         "region": "Санкт-Петербург, Пионерская, улица Матроса Железняка, 57"
+      },
+      {
+         "title": "Senior QA engineer (to Serbia/Canada)",
+         "work experience": "3–6 лет",
+         "salary": "от 3 000 USD до вычета налогов",
+         "region": "Самара, улица Скляренко, 26"
+      },
+      {
+         "title": "Инженер по нагрузочному тестированию",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург, микрорайон Втузгородок, улица Кулибина, 2"
+      },
+      {
+         "title": "Senior Devops Engineer",
+         "work experience": "более 6 лет",
+         "salary": "от 4 000 USD до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "Инженер-программист систем мониторинга",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Пролетарская, проспект Обуховской Обороны, 120с13"
+      },
+      {
+         "title": "Системный администратор Linux",
+         "work experience": "1–3 года",
+         "salary": "от 80 000 до 120 000 руб. на руки",
+         "region": "Санкт-Петербург, Фрунзенская, набережная Обводного канала, 90Ж"
+      },
+      {
+         "title": "Senior fullstack developer",
+         "work experience": "более 6 лет",
+         "salary": "от 140 000 до 220 000 руб. до вычета налогов",
+         "region": "Омск, улица Крупской, 12"
+      },
+      {
+         "title": "Технический писатель",
+         "work experience": "1–3 года",
+         "salary": "до 70 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Web-разработчик (fullstack)",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 до 180 000 руб. на руки",
+         "region": "Москва, Одесская улица, 2"
+      },
+      {
+         "title": "С++ Developer",
+         "work experience": "1–3 года",
+         "salary": "от 100 000 руб. на руки",
+         "region": "Новосибирск, микрорайон Академгородок"
+      },
+      {
+         "title": "Аналитик в команду внедрения ботов",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Data Scientist",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Польша"
+      },
+      {
+         "title": "Разработчик на С++",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Новосибирск"
+      },
+      {
+         "title": "Java разработчик Naumen Erudite",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Лиговский проспект, Обводный Канал, Лиговский проспект, 123"
+      },
+      {
+         "title": "Go Developer/ Старший инженер-программист (Go)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Senior Golang Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Machine Learning Engineer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Челябинск"
+      },
+      {
+         "title": "Flutter разработчик, Full stack",
+         "work experience": "1–3 года",
+         "salary": "от 150 000 до 250 000 руб. на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Инженер по внедрению и техподдержке телекоммуникационного биллинга",
+         "work experience": "1–3 года",
+         "salary": "до 150 000 руб. на руки",
+         "region": "Зеленоград, улица Юности, 8"
+      },
+      {
+         "title": "Frontend-разработчик junior",
+         "work experience": "не требуется",
+         "salary": "до 70 000 руб. на руки",
+         "region": "Санкт-Петербург, Площадь Мужества, Политехническая улица, 22"
+      },
+      {
+         "title": "Разработчик ETL",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Томск"
+      },
+      {
+         "title": "DevOps Engineer (Senior)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Павелецкая, Кожевнический проезд, 3"
+      },
+      {
+         "title": "DevOps инженер/DevOps Engineer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Томск, улица Карташова, 58"
+      },
+      {
+         "title": "Инженер-программист (Linux)",
+         "work experience": "1–3 года",
+         "salary": "от 60 000 до 100 000 руб. до вычета налогов",
+         "region": "Пенза, улица Германа Титова, 1Г"
+      },
+      {
+         "title": "DataBase Administrator (Минск)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Аналитик по распознаванию киберугроз",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Разработчик Frontend React",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Devops Engineer | SRE",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Парк культуры, улица Льва Толстого, 16"
+      },
+      {
+         "title": "QA Engineer (Контакт - центр)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик Java",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Senior Data Analyst в группу \"Рекомендации\"",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Беговая, улица Савушкина, 126Б"
+      },
+      {
+         "title": "PHP-разработчик (Middle)",
+         "work experience": "3–6 лет",
+         "salary": "от 120 000 до 190 000 руб. на руки",
+         "region": "Краснодар, микрорайон Центральный, улица Будённого, 230"
+      },
+      {
+         "title": "Senior .Net разработчик",
+         "work experience": "более 6 лет",
+         "salary": "з/п не указана",
+         "region": "Ижевск, Северный переулок, 61"
+      },
+      {
+         "title": "Руководитель системного анализа",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик 1C (middle)",
+         "work experience": "1–3 года",
+         "salary": "от 120 000 руб. на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "PHP разработчик (middle | senior)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Team Leader",
+         "work experience": "3–6 лет",
+         "salary": "от 80 000 руб. до вычета налогов",
+         "region": "Красноярск, проспект Мира, 94"
+      },
+      {
+         "title": "Системный программист Си",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Новосибирск, Советский район, микрорайон Академгородок, улица Мусы Джалиля, 3/1"
+      },
+      {
+         "title": "Менеджер по информационной безопасности в разработке (ИТ)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Краснопресненская, Улица 1905 года, Рочдельская улица, 15с27"
+      },
+      {
+         "title": "PHP-программист (backend)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Чебоксары, улица Карла Маркса, 60А"
+      },
+      {
+         "title": "Системный программист Си",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург, улица Радищева, 6а"
+      },
+      {
+         "title": "Разработчик 1C (middle)",
+         "work experience": "1–3 года",
+         "salary": "от 120 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Администратор баз данных MongoDB (ОАЭППО)",
+         "work experience": "1–3 года",
+         "salary": "до 200 000 руб. на руки",
+         "region": "Москва, Авиамоторная, шоссе Энтузиастов, 14"
+      },
+      {
+         "title": "Разработчик Java",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Java developer SberGeoData",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Самара, Московское шоссе, 41"
+      },
+      {
+         "title": "Andersen Trainee",
+         "work experience": "не требуется",
+         "salary": "з/п не указана",
+         "region": "Польша"
+      },
+      {
+         "title": "Senior QA Automation Engineer (Python/Swift)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Нур-Султан"
+      },
+      {
+         "title": "Инженер по портированию Linux (OpenBMC)",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 до 250 000 руб. на руки",
+         "region": "деревня Румянцево, Румянцево, офисный парк Комсити"
+      },
+      {
+         "title": "QA Engineer/Инженер по тестированию (решения видеонаблюдения/CCTV)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Кожуховская, 2-й Южнопортовый проезд, 16с6"
+      },
+      {
+         "title": "Senior Golang Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Специалист поддержки (junior / middle level) / IT инженер / Middle Office Support Engineer (Murex)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Релиз-инженер (DevOps)",
+         "work experience": "1–3 года",
+         "salary": "от 60 000 до 80 000 руб. на руки",
+         "region": "Красноярск, проспект Мира, 94"
+      },
+      {
+         "title": "Ведущий программист DS/DE",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Саратов"
+      },
+      {
+         "title": "Go Developer (to Cyprus)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Кипр"
+      },
+      {
+         "title": "Junior C# Developer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Самара, улица Алексея Толстого, 92"
+      },
+      {
+         "title": "QA engineer (to Cyprus or Armenia)/Тестировщик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик Big Data (Hadoop, Spark)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Новосибирск"
+      },
+      {
+         "title": "DataBase Administrator",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Data Engineer/Support Engineer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Хабаровск"
+      },
+      {
+         "title": "Программист компьютерного зрения middle",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Челябинск, улица Кирова, 132"
+      },
+      {
+         "title": "Аналитик отдела валидации",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Таганская, Николоямская улица, 13с2"
+      },
+      {
+         "title": "Senior Java/Kotlin разработчик (eCom)",
+         "work experience": "3–6 лет",
+         "salary": "до 5 000 USD до вычета налогов",
+         "region": "Армения"
+      },
+      {
+         "title": "Инженер по автоматизированному тестированию",
+         "work experience": "3–6 лет",
+         "salary": "от 90 000 руб. на руки",
+         "region": "Пермь, улица Газеты Звезда, 24А"
+      },
+      {
+         "title": "Аналитик в команду внедрения ботов",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Веб-программист",
+         "work experience": "1–3 года",
+         "salary": "от 45 000 до 70 000 руб. на руки",
+         "region": "Тула, улица Николая Руднева, 57Б"
+      },
+      {
+         "title": "Аналитик по распознаванию киберугроз",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Middle .Net разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Ижевск, Северный переулок, 61"
+      },
+      {
+         "title": "Старший аналитик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "PHP-программист (Backend-разработчик)",
+         "work experience": "1–3 года",
+         "salary": "до 90 000 руб. на руки",
+         "region": "Москва, Большой Предтеченский переулок, 13с1"
+      },
+      {
+         "title": "Стажер департамента IT",
+         "work experience": "не требуется",
+         "salary": "от 30 000 руб. на руки",
+         "region": "Ростов-на-Дону, улица Менжинского, 2А"
+      },
+      {
+         "title": "QA Lead (remote)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Сербия"
+      },
+      {
+         "title": "Lead Data Engineer",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик Java (интеграционная платформа)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Продуктовый Аналитик",
+         "work experience": "не требуется",
+         "salary": "от 140 000 до 170 000 руб. на руки",
+         "region": "Жуковский, улица Дугина"
+      },
+      {
+         "title": "Аналоговый схемотехник",
+         "work experience": "более 6 лет",
+         "salary": "з/п не указана",
+         "region": "Новосибирск, улица Николаева, 11"
+      },
+      {
+         "title": "Senior Java developer (POS Hospitality)",
+         "work experience": "3–6 лет",
+         "salary": "до 5 000 USD до вычета налогов",
+         "region": "Тбилиси, улица Жиули Шартава, 33"
+      },
+      {
+         "title": ".Net Developer (remote)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Баку"
+      },
+      {
+         "title": "Senior С# Developer (Unity 3D)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Новосибирск, Площадь Ленина, улица Щетинкина, 49"
+      },
+      {
+         "title": "Помощник системного администратора",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Минск, улица Скрыганова, 6А"
+      },
+      {
+         "title": "Ведущий разработчик С++/Go, Платформа, Эксплуатация и Виртуализация",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Аналитик ЦФТ",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Уфа"
+      },
+      {
+         "title": "PHP-разработчик (команда VK Видео)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Тестировщик ПО",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Стажер-программист 1С",
+         "work experience": "не требуется",
+         "salary": "от 15 000 руб. на руки",
+         "region": "Санкт-Петербург, улица Всеволода Вишневского, 12А"
+      },
+      {
+         "title": "PHP-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 до 300 000 KZT до вычета налогов",
+         "region": "Павлодар, улица Генерала Дюсенова, 117"
+      },
+      {
+         "title": "PHP Developer (команда VK Видео)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Аналитик (направление речевых технологий)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург"
+      },
+      {
+         "title": "QA Lead (remote)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Болгария"
+      },
+      {
+         "title": "Разработчик С++",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "PHP-разработчик (команда VK Видео)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Ведущий инженер по сопровождению Платформы (SRE/DevOps, BSS-системы)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Электросила, Московский проспект, 139к1"
+      },
+      {
+         "title": "DevOps/DataOps администратор",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Senior Web QA",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Ведущий инженер по сопровождению Платформы (SRE/DevOps, BSS-системы)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Ведущий разработчик ITSM",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Педагог дополнительного образования по направлению \"Разработка VR/AR приложений\" в IT-куб",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Новосибирск, Советская улица, 63"
+      },
+      {
+         "title": "Data Engineer (Кампании продаж)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Manager, Site Reliability Engineering (to Canada/Serbia)",
+         "work experience": "более 6 лет",
+         "salary": "от 9 500 USD до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "Аналитик по динамическому ценообразованию",
+         "work experience": "3–6 лет",
+         "salary": "от 120 000 руб. на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Инженер-программист центра систем автоматизации",
+         "work experience": "3–6 лет",
+         "salary": "до 101 400 руб. на руки",
+         "region": "Пермь, Усольская улица, 15Б"
+      },
+      {
+         "title": "Head of Testing Group",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Инженер технической поддержки",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Ставрополь, улица 50 лет ВЛКСМ, 35В"
+      },
+      {
+         "title": "Site Reliability Engineer (Belgrade, Serbia)",
+         "work experience": "3–6 лет",
+         "salary": "от 7 000 до 8 000 USD на руки",
+         "region": "Белград"
+      },
+      {
+         "title": "ETL-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Программист - Тьютор / Наставник КиберШколы",
+         "work experience": "не требуется",
+         "salary": "от 75 000 до 150 000 руб. на руки",
+         "region": "село Красное, 3А"
+      },
+      {
+         "title": "Machine Learning Engineer (Middle)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Калининград, проспект Победы, 81"
+      },
+      {
+         "title": "Помощник системного администратора",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Минск, улица Скрыганова, 6А"
+      },
+      {
+         "title": "Тех лид - разработчик по оптимизационным решениям",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "DevOps/DataOps администратор",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "ИТ-аналитик (ИТ-инфраструктура)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Отрадное, Серпуховско-Тимирязевская линия"
+      },
+      {
+         "title": "Разработчик 1C (middle)",
+         "work experience": "1–3 года",
+         "salary": "от 120 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "QA Lead (remote)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Венгрия"
+      },
+      {
+         "title": "Senior Full stack Developer (to Yerevan)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "C# разработчик приложения для автоматизации обработки деталей на лазерных станках",
+         "work experience": "3–6 лет",
+         "salary": "от 75 000 до 140 000 руб. на руки",
+         "region": "Новосибирск, улица Николаева, 11/5"
+      },
+      {
+         "title": "Разработчик Java (интеграционная платформа)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Продуктовый архитектор",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Программист-интегратор в Банк. Поддержка АБС 21 Век «Инверсия»",
+         "work experience": "3–6 лет",
+         "salary": "от 70 000 до 100 000 руб. до вычета налогов",
+         "region": "Краснодар, Северная улица, 319"
+      },
+      {
+         "title": "Менеджер продукта (Big Data)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Тех лид-разработчик по оптимизационным решениям",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Site Reliability Engineer (Belgrade, Serbia)",
+         "work experience": "3–6 лет",
+         "salary": "от 7 000 до 8 000 USD на руки",
+         "region": "Белград"
+      },
+      {
+         "title": "QA Lead (remote)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Турция"
+      },
+      {
+         "title": "Senior Web QA",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Системный инженер-программист С/С++",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Омск"
+      },
+      {
+         "title": "Ведущий аналитик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Сокол, Ленинградский проспект, 80к37"
+      },
+      {
+         "title": "PHP Developer (команда VK Видео)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "QA Lead (remote)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Черногория"
+      },
+      {
+         "title": "PHP-разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Достоевская, Менделеевская, Новослободская, Весковский переулок, 3"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Челябинск"
+      },
+      {
+         "title": "Business & Strategy Analyst",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Новолесная улица, 2"
+      },
+      {
+         "title": "Руководитель направления Business Intelligence (BI)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Теплый Стан, Профсоюзная улица, 125А"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Калининград"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Красноярск"
+      },
+      {
+         "title": "Куратор преподавателей учебного онлайн-отделения",
+         "work experience": "1–3 года",
+         "salary": "от 60 000 до 80 000 руб. до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "Заместитель руководителя отдела валидации",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Таганская, Николоямская улица, 13с2"
+      },
+      {
+         "title": "QA Automation Engineer (Middle/Senior)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Калининград, проспект Победы, 81"
+      },
+      {
+         "title": "Senior Backend разработчик / Senior Backend Developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Тбилиси"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Пермь"
+      },
+      {
+         "title": "Senior ML Engineer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Чернышевская, улица Рылеева, 11"
+      },
+      {
+         "title": "Специалист по информационным технологиям (программист)",
+         "work experience": "1–3 года",
+         "salary": "от 90 000 до 117 800 руб. до вычета налогов",
+         "region": "городской округ Клин, М-11, 90-й километр"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Барнаул"
+      },
+      {
+         "title": "Ведущий специалист технической поддержки",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Новосибирск, Советский район, микрорайон Академгородок, проспект Академика Коптюга, 4"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Ведущий разработчик Hadoop",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Специалист DevSecOps",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Киевская, Спортивная, Большой Саввинский переулок, 12с6"
+      },
+      {
+         "title": "Программист C++/Qt",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Старая Деревня, Дибуновская улица, 50"
+      },
+      {
+         "title": "Специалист защиты информации корпоративных систем управления",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Программист-аналитик данных телепроектов",
+         "work experience": "1–3 года",
+         "salary": "от 53 000 до 75 000 руб. на руки",
+         "region": "Москва, Телецентр, улица Академика Королёва, 12"
+      },
+      {
+         "title": "Разработчик С++",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Kotlin разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, улица Оптиков, 4к2"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Томск"
+      },
+      {
+         "title": "Unix Administrator",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Алматы"
+      },
+      {
+         "title": "Инженер по обеспечению доступности систем (SRE)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, улица Воздвиженка, 4/7"
+      },
+      {
+         "title": "Ведущий программист",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург, улица 8 Марта, 51"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Владивосток"
+      },
+      {
+         "title": "Middle Full stack developer в Антифрод",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Хабаровск"
+      },
+      {
+         "title": "Инженер-электроник",
+         "work experience": "1–3 года",
+         "salary": "от 100 000 руб. на руки",
+         "region": "Люберцы, Жулебино, 1-й Панковский проезд, 1в"
+      },
+      {
+         "title": "Senior DevOps Engineer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Тбилиси"
+      },
+      {
+         "title": "Аналитик по динамическому ценообразованию",
+         "work experience": "3–6 лет",
+         "salary": "от 120 000 руб. на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Старший системный администратор (PostgreSQL/PostgresPRO)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Ижевск"
+      },
+      {
+         "title": "Разработчик ядра НСД",
+         "work experience": "не требуется",
+         "salary": "з/п не указана",
+         "region": "Москва, Тульская, Новоданиловская набережная, 10"
+      },
+      {
+         "title": "R&D Engineer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Программист C/С++",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Саратов, проспект Строителей, 10А"
+      },
+      {
+         "title": "DevOps Engineer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Армения"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Саратов"
+      },
+      {
+         "title": "Senior ML Engineer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Преображенская площадь, Преображенская площадь, 8"
+      },
+      {
+         "title": "DevOps with GCP, Telemedicine Technology Solutions",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Алматы"
+      },
+      {
+         "title": "DevOps / SRE Specialist",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. на руки",
+         "region": "Казань"
+      },
+      {
+         "title": "Программист SQL",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, 1-й Красногвардейский проезд, 22с1"
+      },
+      {
+         "title": "Разработчик Oracle HFM (FDM)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "QA Lead (remote)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Болгария"
+      },
+      {
+         "title": "Middle Data Engineer, Media Conglomerate",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Караганда"
+      },
+      {
+         "title": "Архитектор баз данных / Программист SQL",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Великий Новгород"
+      },
+      {
+         "title": "Cпециалист по безопасной разработке (SecDevOps/DevSecOps)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург, микрорайон Втузгородок, Комвузовская улица, 9а"
+      },
+      {
+         "title": "Senior DevOps Engineer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Складочная улица, 3с1"
+      },
+      {
+         "title": "Старший разработчик Go, Базовые сервисы, Платформа",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Старший инженер-программист C#/C++",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Нижний Новгород, Горьковская, проспект Гагарина, 50к9"
+      },
+      {
+         "title": "DevOps / SRE Specialist",
+         "work experience": "3–6 лет",
+         "salary": "от 250 000 руб. на руки",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Разработчик С++",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик Bitrix (Middle/Senior, Remote)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Екатеринбург"
+      },
+      {
+         "title": "PHP-разработчик (команда VK Видео)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "SOC Developer Automation",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Площадь Ильича, Римская, Волочаевская улица, 5с3"
+      },
+      {
+         "title": "Инженер-программист",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Пенза, Центральная улица, 1М"
+      },
+      {
+         "title": "ALM Инженер (группа разработки инфраструктуры, команда разработки KasperskyOS)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик Bitrix (Middle/Senior, Remote)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Новосибирск"
+      },
+      {
+         "title": "Инженер по проектированию и моделированию FPGA / developer (verilog/ system verilog)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Томск, проспект Кирова, 51Д"
+      },
+      {
+         "title": "Programming Team Lead (С++)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Уфа"
+      },
+      {
+         "title": "PHP Developer (middle)",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 руб. на руки",
+         "region": "Санкт-Петербург, Московские ворота, Заставская улица, 22а"
+      },
+      {
+         "title": "Системный Архитектор (Wink)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Проспект Вернадского, Сокольническая линия, метро Проспект Вернадского"
+      },
+      {
+         "title": "Специалист технической поддержки",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Владивосток"
+      },
+      {
+         "title": "Frontend-разработчик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Красносельская, Верхняя Красносельская улица, 3с2"
+      },
+      {
+         "title": "Инженер-программист",
+         "work experience": "3–6 лет",
+         "salary": "от 78 000 до 78 000 руб. на руки",
+         "region": "Уфа, микрорайон Шакша, Производственная улица, 10/1"
+      },
+      {
+         "title": "Наставник (Тьютор) в школу программирования для детей",
+         "work experience": "1–3 года",
+         "salary": "до 150 000 руб. до вычета налогов",
+         "region": "Истра, улица Ленина"
+      },
+      {
+         "title": "Senior Test specialist (Q&A Инженер)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Рочдельская улица, 15с21"
+      },
+      {
+         "title": "Тестировщик GTest, PyTest в отдел автоматического управления беспилотником",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, Лихоборы, Петровско-Разумовская, Автомоторная улица, 2"
+      },
+      {
+         "title": "Разработчик DWH",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Краснодар"
+      },
+      {
+         "title": "IT Координатор",
+         "work experience": "не требуется",
+         "salary": "з/п не указана",
+         "region": "Москва, Тульская, Новоданиловская набережная, 10"
+      },
+      {
+         "title": "Programming Team Lead (С++)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Мурманск"
+      },
+      {
+         "title": "PHP developer (+Vue.js)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Спортивная, Большой проспект Петроградской стороны, 18"
+      },
+      {
+         "title": "Технический аналитик",
+         "work experience": "1–3 года",
+         "salary": "от 60 000 руб. на руки",
+         "region": "Кемерово, Бакинский переулок, 15"
+      },
+      {
+         "title": "Инженер по портированию Linux (OpenBMC)",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 до 250 000 руб. на руки",
+         "region": "деревня Румянцево, Румянцево, офисный парк Комсити"
+      },
+      {
+         "title": "Программист 1C (переквалификация)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Челябинск, улица Братьев Кашириных, 65Б"
+      },
+      {
+         "title": "Программист/Разработчик информационных систем на Oracle/django (Москва)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Белорусская, Ленинградский проспект, 17"
+      },
+      {
+         "title": "DevOps инженер",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Чернышевская, Литейный проспект, 26"
+      },
+      {
+         "title": "Разработчик DWH",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Ростов-на-Дону"
+      },
+      {
+         "title": "Инженер-программист встраиваемых систем (embedded developer)",
+         "work experience": "1–3 года",
+         "salary": "от 60 000 до 100 000 руб. на руки",
+         "region": "Санкт-Петербург, Гжатская улица, 27"
+      },
+      {
+         "title": "Requirements and Specification Engineer (RSE)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Краснопресненская, Улица 1905 года, Рочдельская улица, 15с15"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Нижний Новгород"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Тула"
+      },
+      {
+         "title": "Kotlin разработчик",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, улица Оптиков, 4к2"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Москва"
+      },
+      {
+         "title": "Разработчик DWH",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Новосибирск"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Пермь"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Новосибирск"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Барнаул"
+      },
+      {
+         "title": "Requirements and Specification Engineer (RSE)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Unix Administrator",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Тбилиси"
+      },
+      {
+         "title": "Куратор преподавателей учебного онлайн-отделения",
+         "work experience": "1–3 года",
+         "salary": "от 60 000 до 80 000 руб. до вычета налогов",
+         "region": "Москва"
+      },
+      {
+         "title": "Senior developer C++",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, Динамо, Северный административный округ, улица 8 Марта, 10с1"
+      },
+      {
+         "title": "Технический аналитик",
+         "work experience": "1–3 года",
+         "salary": "от 60 000 руб. на руки",
+         "region": "Кемерово, Бакинский переулок, 15"
+      },
+      {
+         "title": "Middle PHP Laravel разработчик (удалённо)",
+         "work experience": "1–3 года",
+         "salary": "до 120 000 руб. на руки",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Инженер по портированию Linux (OpenBMC)",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 до 250 000 руб. на руки",
+         "region": "деревня Румянцево, Румянцево, офисный парк Комсити"
+      },
+      {
+         "title": "Ведущий разработчик Hadoop",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Калининград"
+      },
+      {
+         "title": "Инженер-программист встраиваемых систем (embedded developer)",
+         "work experience": "1–3 года",
+         "salary": "от 60 000 до 100 000 руб. на руки",
+         "region": "Санкт-Петербург, Гжатская улица, 27"
+      },
+      {
+         "title": "Ведущий сетевой инженер в ЦОД",
+         "work experience": "3–6 лет",
+         "salary": "от 100 000 до 170 000 руб. на руки",
+         "region": "Уфа"
+      },
+      {
+         "title": "Fullstack Developer с навыками DevOps",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Кишинёв"
+      },
+      {
+         "title": "Fullstack Developer с навыками DevOps",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Тбилиси"
+      },
+      {
+         "title": "Ведущий программист C/C++",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, улица Советской Армии, 5, м Достоевская"
+      },
+      {
+         "title": "Team lead C++ (to Cyprus)",
+         "work experience": "более 6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Middle C/С++ developer(1310)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, улица Советской Армии, 5, м Достоевская"
+      },
+      {
+         "title": "Старший программист C/C++",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва, улица Советской Армии, 5, м Достоевская"
+      },
+      {
+         "title": "Программист (разработчик коннекторов SIEM)",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург"
+      },
+      {
+         "title": "Fullstack Developer с навыками DevOps инженера",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Армения"
+      },
+      {
+         "title": "Fullstack Developer с навыками DevOps",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Нур-Султан"
+      },
+      {
+         "title": "Ведущий инженер сопровождения платформы облачных продуктов",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Старший аналитик данных",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Москва"
+      },
+      {
+         "title": "Fullstack Developer с навыками DevOps",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Баку"
+      },
+      {
+         "title": "Senior DevOps with AWS, Online Gaming Platform",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Нур-Султан"
+      },
+      {
+         "title": "Fullstack Developer с навыками DevOps",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Минск"
+      },
+      {
+         "title": "Middle Product analyst/Продуктовый аналитик",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Горьковская, Петроградская, Чкаловская, Лахтинская улица, 16"
+      },
+      {
+         "title": "Web analyst developer",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Москва, 1-й Красногвардейский проезд, 21с1"
+      },
+      {
+         "title": "Ведущий инженер-программист ML",
+         "work experience": "3–6 лет",
+         "salary": "от 150 000 руб. на руки",
+         "region": "Екатеринбург, Геологическая, улица 8 Марта, 49"
+      },
+      {
+         "title": "Senior DevOps with AWS, Online Gaming Platform",
+         "work experience": "1–3 года",
+         "salary": "з/п не указана",
+         "region": "Алматы"
+      },
+      {
+         "title": "РНР Developer (команда экспериментальных запусков)",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Гостиный двор, Невский проспект"
+      },
+      {
+         "title": "Разработчик .NET",
+         "work experience": "3–6 лет",
+         "salary": "з/п не указана",
+         "region": "Санкт-Петербург, Аптекарская набережная, 18"
+      }
+   ]
+}
